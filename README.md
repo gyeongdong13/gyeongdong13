@@ -1,10 +1,10 @@
-# Gyeong Dong introduction 😄
+# introduction 😄
+# Gyeong Dong Kim
 ### Data Analyst(finance)
 
 
 ## Stack 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=black"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=red"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=red"/>
 
 
 <!--
