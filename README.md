@@ -1,8 +1,10 @@
 # Gyeong Dong Kim 😄
-  ###### ***금융 데이터 분석가***를 희망합니다
-  ###### 좀 더 다양한 도전들을 즐기고 싶습니다  
+  - 경기대학교 응용통계학 & 융합데이터공학 전공  
+  - D.N.A 데이터분석 동아리(21.09 ~ 23.05)
+
 
 ---
+
 
 ## Stack 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=gray"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
