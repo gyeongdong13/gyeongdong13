@@ -1,13 +1,21 @@
 # introduction 😄 (Gyeong Dong Kim)
-###### **금융 데이터 분석가**를 희망합니다.
-###### 좀 더 다양한 도전들을 즐기고 싶습니다.  
+###### - **금융 데이터 분석가**를 희망합니다.
+###### - 좀 더 다양한 도전들을 즐기고 싶습니다.  
 
-
+---
 
 ## Stack 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=gray"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 
+
+--- 
+
+
 ![Gyeongdong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongdong13&show_icons=true&theme=radical)
+
+
+---
+
 
 ## About me 🌱
 
